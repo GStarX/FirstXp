@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.XuanRan.Exception.Handing.ExceptionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.XuanRan.FirstXp.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.XuanRan.FirstXp.XuanRanApplication { <init>(...); }
+
